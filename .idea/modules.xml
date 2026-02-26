@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/bootcamp-java-cloud.iml" filepath="$PROJECT_DIR$/.idea/bootcamp-java-cloud.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exercicios-encapsulamento/exercicios-encapsulamento.iml" filepath="$PROJECT_DIR$/exercicios-encapsulamento/exercicios-encapsulamento.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exercicios-estruturas/exercicios-estruturas.iml" filepath="$PROJECT_DIR$/exercicios-estruturas/exercicios-estruturas.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exercicios-fundamentos/exercicios-fundamentos.iml" filepath="$PROJECT_DIR$/exercicios-fundamentos/exercicios-fundamentos.iml" />
+    </modules>
+  </component>
+</project>
