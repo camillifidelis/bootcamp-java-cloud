@@ -9,6 +9,5 @@ public class Main {
 
         System.out.println(brlclock.getTime());
         System.out.println(new USClock().convert(brlclock).getTime());
-
     }
 }

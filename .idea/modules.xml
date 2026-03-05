@@ -7,6 +7,8 @@
       <module fileurl="file://$PROJECT_DIR$/exercicios-estruturas/exercicios-estruturas.iml" filepath="$PROJECT_DIR$/exercicios-estruturas/exercicios-estruturas.iml" />
       <module fileurl="file://$PROJECT_DIR$/exercicios-fundamentos/exercicios-fundamentos.iml" filepath="$PROJECT_DIR$/exercicios-fundamentos/exercicios-fundamentos.iml" />
       <module fileurl="file://$PROJECT_DIR$/exercicios-heranca-polimorfismo/exercicios-heranca-polimorfismo.iml" filepath="$PROJECT_DIR$/exercicios-heranca-polimorfismo/exercicios-heranca-polimorfismo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exercicios-interface-lambda/exercicios-interface-lambda.iml" filepath="$PROJECT_DIR$/exercicios-interface-lambda/exercicios-interface-lambda.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exercicios-interfaces-lambda/exercicios-interfaces-lambda.iml" filepath="$PROJECT_DIR$/exercicios-interfaces-lambda/exercicios-interfaces-lambda.iml" />
     </modules>
   </component>
 </project>
